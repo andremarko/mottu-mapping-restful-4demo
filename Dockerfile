@@ -21,4 +21,4 @@ USER mapping-backend
 
 EXPOSE 8080
 
-CMD ["java", "-jar", "/app/mottu-mapping-api-minified--0.0.1-SNAPSHOT.jar"]
+CMD ["java", "-jar", "/app/mottu-mapping-api-minified-0.0.1-SNAPSHOT.jar"]
